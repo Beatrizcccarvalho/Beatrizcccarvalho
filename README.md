@@ -1,7 +1,7 @@
-### Hi there, I’m ** Beatriz ** 👋
+### Hi there, I’m **🔵 Your Name** 👋
 
 I’m a **full‑stack software developer** with **2 years of hands‑on experience** crafting web apps that put users first.  
-My toolkit lives at the intersection of **Angular · Node.js · MongoDB · WordPress** — plus a healthy dose of **HTML5, Bootstrap, Tailwind, and React** when the project calls for it.
+My toolkit lives at the intersection of **Angular · Node.js · MongoDB · WordPress**—plus a healthy dose of **HTML5, Bootstrap, Tailwind, and React** when the project calls for it.
 
 ---
 
@@ -13,7 +13,7 @@ My toolkit lives at the intersection of **Angular · Node.js · MongoDB�
 #### 🛠  Core skills
 | Area | Highlights |
 |------|------------|
-| **Frontend** | Angular • React • HTML5 • CSS/Tailwind • Bootstrap |
+| **Frontend** | Angular • React • Vue • HTML5 • CSS/Tailwind • Bootstrap |
 | **Backend**  | Node.js • Express • REST APIs |
 | **Databases**| MongoDB • Mongoose |
 | **CMS / No‑Code** | WordPress theme & plugin dev |
@@ -39,5 +39,11 @@ I’m keen to **join forward‑thinking teams** where I can ship meaningful feat
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizCasalBeatrizcccarvalho&show_icons=true&theme=default)
+-->
 
 
