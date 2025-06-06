@@ -47,6 +47,6 @@ I’m keen to **join forward‑thinking teams** where I can ship meaningful feat
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatrizcccarvalho&show_icons=true&theme=default)-->
+
 
 
